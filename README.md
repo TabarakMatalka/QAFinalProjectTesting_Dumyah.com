@@ -95,7 +95,7 @@ Two load test scenarios were created using Apache JMeter:
 | 1        | 1000  | 20 sec   | 5     | 36.46% error |
 | 2        | 100   | 20 sec   | 5     | 0% error     |
 
-📁 Screenshots and `.jmx` file can be found in the `JMeter_Scenarios/` folder (if added).
+
 
 ---
 
