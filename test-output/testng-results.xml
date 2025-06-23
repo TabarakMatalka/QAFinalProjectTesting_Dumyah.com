@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-23T16:07:49 GMT+03:00" name="Default suite" finished-at="2025-06-23T16:11:44 GMT+03:00" duration-ms="234767">
+    <groups>
+    </groups>
+    <test started-at="2025-06-23T16:07:49 GMT+03:00" name="Default test" finished-at="2025-06-23T16:11:44 GMT+03:00" duration-ms="234767">
+      <class name="Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:07:49 GMT+03:00" name="Setup" finished-at="2025-06-23T16:07:53 GMT+03:00" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="homepageAccessibility()[pri:1, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:07:53 GMT+03:00" name="homepageAccessibility" finished-at="2025-06-23T16:07:53 GMT+03:00" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageAccessibility -->
+        <test-method signature="login()[pri:2, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:07:53 GMT+03:00" name="login" finished-at="2025-06-23T16:08:01 GMT+03:00" duration-ms="8378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchAndFilteringFunctionality()[pri:3, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:08:02 GMT+03:00" name="searchAndFilteringFunctionality" finished-at="2025-06-23T16:08:26 GMT+03:00" duration-ms="24965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndFilteringFunctionality -->
+        <test-method signature="viewingRandomProductDetails()[pri:4, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:08:26 GMT+03:00" name="viewingRandomProductDetails" finished-at="2025-06-23T16:08:29 GMT+03:00" duration-ms="2316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewingRandomProductDetails -->
+        <test-method signature="addProductToCart()[pri:5, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:08:29 GMT+03:00" name="addProductToCart" finished-at="2025-06-23T16:09:24 GMT+03:00" duration-ms="54723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method signature="view_Cart()[pri:6, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:09:24 GMT+03:00" name="view_Cart" finished-at="2025-06-23T16:09:35 GMT+03:00" duration-ms="11434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_Cart -->
+        <test-method signature="ModifyCart()[pri:7, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:09:35 GMT+03:00" name="ModifyCart" finished-at="2025-06-23T16:10:01 GMT+03:00" duration-ms="26193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyCart -->
+        <test-method signature="proceedingToCheckout()[pri:8, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:10:01 GMT+03:00" name="proceedingToCheckout" finished-at="2025-06-23T16:10:23 GMT+03:00" duration-ms="21909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedingToCheckout -->
+        <test-method signature="createRegistry()[pri:9, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:10:23 GMT+03:00" name="createRegistry" finished-at="2025-06-23T16:10:39 GMT+03:00" duration-ms="16321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRegistry -->
+        <test-method signature="addProductToRegistryFromProductsList()[pri:10, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:10:39 GMT+03:00" name="addProductToRegistryFromProductsList" finished-at="2025-06-23T16:11:17 GMT+03:00" duration-ms="37709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToRegistryFromProductsList -->
+        <test-method signature="editAccountInfo()[pri:11, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:11:17 GMT+03:00" name="editAccountInfo" finished-at="2025-06-23T16:11:36 GMT+03:00" duration-ms="18601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountInfo -->
+        <test-method signature="logout()[pri:12, instance:Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest@5e01a982]" started-at="2025-06-23T16:11:36 GMT+03:00" name="logout" finished-at="2025-06-23T16:11:44 GMT+03:00" duration-ms="7802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Dumyah_FinalProjectQA.Dumyah_FinalProject.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
